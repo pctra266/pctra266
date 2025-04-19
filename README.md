@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Full Stack Dev in training – and yes, I still debug with print statements 🐛
+# 👋 "Hello, I'm on my journey to becoming a Full Stack Developer – and yes, I still debug with print statements 🐛"
 
 🎓 I'm currently a 3rd-year Software Engineering student.  
 💻 I break and build things using full-stack technologies.  
