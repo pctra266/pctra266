@@ -1,10 +1,11 @@
 
 <h3 align="center"><samp> Hi 😼 I'm Tra Pham</samp></h3>
-<img align="center" alt="Learning" src="https://github.com/user-attachments/assets/1b5edb16-ad50-4d5f-984e-403dc83b38c4">
+<img align="center" alt="Learning" src="https://github.com/user-attachments/assets/0a627ace-0944-4726-8a40-397388f53b9e">
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/trapham266</samp>
 
 <samp>- 📫 Reach me at phamtra001@gmail.com</samp>
+
 
 
 
