@@ -1,4 +1,4 @@
-
+<h2 align="center"><em><strong>LeBlanc’s Law:</strong> "Later equals never."</em></h2>
 <h3 align="center"><samp> Hi 😼 I'm Tra Pham</samp></h3>
 <img align="center" alt="Learning" src="https://github.com/user-attachments/assets/0a627ace-0944-4726-8a40-397388f53b9e">
 
