@@ -4,7 +4,7 @@
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/trapham266</samp>
 
-<samp>- 📫 Reach me at phamtra001@gmail.com</samp>
+<samp>- 📫 Reach me at trapham.dev@gmail.com</samp>
 
 
 
