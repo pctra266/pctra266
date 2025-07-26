@@ -1,14 +1,14 @@
+<br>
+
 <h2 align="center"><em><strong>LeBlanc’s Law:</strong> "Later equals never."</em></h2>
-<h3 align="center"><samp> Hi 😼 I'm Tra Pham</samp></h3>
-<!-- <img align="center" alt="Learning" src="https://github.com/user-attachments/assets/0a627ace-0944-4726-8a40-397388f53b9e"> -->
+
+<h3 align="center"><samp>Hi /ᐠ｡ꞈ｡ᐟ\ I'm Tra Pham</samp></h3>
+
+<br>
+
 <img align="center" alt="Learning" src="https://raw.githubusercontent.com/pctra266/pctra266/main/images/alice-learning.gif">
 
-<samp>- 📫 Reach me at https://www.linkedin.com/in/trapham266</samp>
-
 <samp>- 📫 Reach me at trapham.dev@gmail.com</samp>
-
-
-
 
 <!-- Languages -->
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
