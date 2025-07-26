@@ -1,6 +1,6 @@
 <h2 align="center"><em><strong>LeBlanc’s Law:</strong> "Later equals never."</em></h2>
 
-<h3 align="center"><samp>Hi /ᐠ｡ꞈ｡ᐟ\ I'm Tra Pham</samp></h3>
+<h3 align="center"><samp>Hi 😼 I'm Tra Pham</samp></h3>
 
 <img align="center" alt="Learning" src="https://raw.githubusercontent.com/pctra266/pctra266/main/images/alice-learning.gif">
 
