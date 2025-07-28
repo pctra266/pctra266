@@ -24,17 +24,19 @@
       <br>JavaScript
     </td>
     <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="HTML5" />
+      <br>TypeScript
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="css" />
+      <br>Tailwind
     </td>
+<!--         
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+        -->
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
       <br>React
@@ -47,6 +49,16 @@
         <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
       <br>Java
       </td>
+       <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="45" height="45" />
+      <br>Spring
+    </td>
+          
+   
+   <td align="center" width="100">
+  <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="visualstudio" />
+  <br>Hibernate
+</td>
         <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
       <br>Postman
@@ -55,21 +67,14 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
-      <br>Github
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-   <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="visualstudio" />
-  <br>VS2022
-</td>
+<!--
+ <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="VsCode" />
+      <br>Unity
+    </td> -->
 <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Nodejs" />
+      <br>Mysql
       </td>
  </tr>
 
