@@ -6,79 +6,63 @@
 
 <samp>- 📫 Reach me at trapham.dev@gmail.com</samp>
 
-<!-- Languages -->
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" alt="cs" />
-      <br>C#
-      </td>
-      <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="dotnet" />
-  <br>.NET
-</td>
+  <tr>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" alt="js" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+      <br>.NET
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="HTML5" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
-<!--         
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-        -->
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
-      </td>
-      
-      
+    </td>
   </tr>
- <tr>
-   <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java" />
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
-      </td>
-       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="45" height="45" />
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
       <br>Spring
     </td>
-          
-   
-   <td align="center" width="100">
-  <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="visualstudio" />
-  <br>Hibernate
-</td>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
-       <td align="center" width="100"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+    <td align="center" width="100">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-<!--
- <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="VsCode" />
-      <br>Unity
-    </td> -->
-<td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="Nodejs" />
-      <br>Mysql
-      </td>
- </tr>
-
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
 </table>
+
 </div>
 
 <br>
