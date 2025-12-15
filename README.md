@@ -1,4 +1,4 @@
-<h2 align="center"><em><strong>LeBlanc’s Law:</strong> "Later equals never."</em></h2>
+<h2 align="center">“Make the system right.”</h2>
 
 <h3 align="center"><samp>Hi 😼 I'm Tra Pham</samp></h3>
 
